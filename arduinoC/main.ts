@@ -1,13 +1,13 @@
 
 enum Motor {
-    //% block="new motor"
+    //% block="New_Motor"
     A,
-    //% block="old motor"
+    //% block="Old_Motor"
     B
 }
 
 //% color="#AA278D" iconWidth=50 iconHeight=40
-namespace maqueenPlusMotor {
+namespace maqueenPlusMotorMap {
     //% block="[Motor] [Speed]" blockType="reporter"
     //% Motor.shadow="dropdown" Motor.options="Motor" Motor.defl="Motor.A"
     //% Speed.shadow="range" Speed.params.min=0 Speed.params.max=255 Speed.defl=200

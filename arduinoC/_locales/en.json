@@ -1,0 +1,5 @@
+{
+    "maqueenPlusMotorMap.motorMap|block": "[Motor] [Speed]",
+    "maqueenPlusMotorMap.Motor.A|menu": "New_Motor",
+    "maqueenPlusMotorMap.Motor.B|menu": "Old_Motor"
+}

@@ -1,0 +1,25 @@
+{
+	"name": {
+		"zh-cn": "麦昆Plus速度转换器",
+		"en": "maqueen plus speed converter"
+	},
+	"description": {
+		"zh-cn": "用于转换麦昆Plus的[速度]参数, 使新旧电机版本的行进速度一致",
+		"en": "Convert the [speed] parameter of maqueen plus to make the forward speed consistent between old and new motor versions"
+	},
+	"author": "DFRobot",
+	"email": "MindPlus@dfrobot.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "maqueenPlusMotorMap",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["microbit", "esp32"],
+			"main": "main.ts"
+		}
+	}
+}

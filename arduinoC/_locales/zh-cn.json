@@ -1,0 +1,5 @@
+{
+    "oled12864.maqueenPlusMotor|block": "[Motor] [Speed]",
+    "maqueenPlusMotor.Motor.A|menu": "新电机",
+    "maqueenPlusMotor.Motor.B|menu": "旧电机"
+}
